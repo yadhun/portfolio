@@ -1,0 +1,21 @@
+#footer{
+  padding: 20px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 25px;
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+#footer p {
+  width: 15;
+}
